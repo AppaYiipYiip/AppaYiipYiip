@@ -54,9 +54,6 @@ I thrive in the intersection of distributed computing, data analysis, and machin
   <tr>
     <td align="center" width="50%">
       <h3><a href="https://github.com/AppaYiipYiip/Enron-Email-Network-Analysis">Enron Email Network Analysis</a></h3>
-      <a href="https://github.com/AppaYiipYiip/Enron-Email-Network-Analysis">
-        <img src="https://raw.githubusercontent.com/AppaYiipYiip/Enron-Email-Network-Analysis/main/images/network_graph.png" width="100%" alt="Network Analysis"/>
-      </a>
       <p>Architected Apache Spark pipelines to analyze 500K+ emails, extracting organizational communication patterns through advanced network analysis techniques.</p>
       <p>
         <img src="https://img.shields.io/badge/Apache%20Spark-orange" alt="Apache Spark"/>
@@ -66,9 +63,6 @@ I thrive in the intersection of distributed computing, data analysis, and machin
     </td>
     <td align="center" width="50%">
       <h3><a href="https://github.com/AppaYiipYiip/Twitter-SQL-Analysis">Twitter Database Optimization</a></h3>
-      <a href="https://github.com/AppaYiipYiip/Twitter-SQL-Analysis">
-        <img src="https://raw.githubusercontent.com/AppaYiipYiip/Twitter-SQL-Analysis/main/images/db_schema.png" width="100%" alt="Database Schema"/>
-      </a>
       <p>Implemented 3NF database normalization on 100K+ tweets, crafting analytical SQL queries to extract engagement patterns and community structures.</p>
       <p>
         <img src="https://img.shields.io/badge/SQL-blue" alt="SQL"/>
@@ -99,13 +93,6 @@ I thrive in the intersection of distributed computing, data analysis, and machin
   </tr>
 </table>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AppaYiipYiip&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AppaYiipYiip&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
-</div>
-
 ## 🌱 Currently Learning
 
 <div align="center">
@@ -126,10 +113,4 @@ I'm always interested in collaborating on data science projects and discussing n
   <a href="mailto:marwanomansour04@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AppaYiipYiip&color=blueviolet&style=flat-square" alt="Profile views" />
 </div>
