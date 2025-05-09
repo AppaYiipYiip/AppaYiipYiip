@@ -73,7 +73,7 @@ I thrive in the intersection of distributed computing, data analysis, and machin
   </tr>
   <tr>
     <td align="center">
-      <h3><a href="https://github.com/AppaYiipYiip/Finger-Recognition">Finger Recognition System</a></h3>
+      <h3>Finger Recognition System</h3>
       <p>Engineered a KNN classification system for real-time finger count recognition with OpenCV for feature extraction and preprocessing.</p>
       <p>
         <img src="https://img.shields.io/badge/Computer%20Vision-purple" alt="Computer Vision"/>
@@ -82,7 +82,7 @@ I thrive in the intersection of distributed computing, data analysis, and machin
       </p>
     </td>
     <td align="center">
-      <h3><a href="https://github.com/AppaYiipYiip/Music-Recommender">Music Recommendation Engine</a></h3>
+      <h3>Music Recommendation Engine</h3>
       <p>Built a recommendation system using Spotify API and KMeans clustering, with an interactive Streamlit dashboard for visualization.</p>
       <p>
         <img src="https://img.shields.io/badge/API%20Integration-blue" alt="API Integration"/>
