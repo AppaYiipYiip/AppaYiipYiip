@@ -15,9 +15,9 @@
 
 ## 👨‍💻 About Me
 
-Data scientist with a passion for transforming complex datasets into actionable insights. MSc Data Science student at Royal Holloway University with a First-Class degree in Software Engineering. My journey began before I even knew what data science was - analyzing virtual economies in games to gain competitive advantages. That early fascination with patterns and optimization led me to pursue data science professionally.
+Data scientist with a passion for transforming complex datasets into actionable insights. MSc Data Science student at Royal Holloway University with a First-Class degree in Software Engineering. I'm dedicated to using data-driven approaches to solve challenging problems through rigorous analysis and innovative solutions.
 
-I thrive in the intersection of distributed computing, data analysis, and machine learning, focusing on building scalable solutions that solve real-world problems.
+I thrive in the intersection of distributed computing, data analysis, and machine learning, focusing on building scalable solutions that address real-world challenges.
 
 <table>
   <tr>
