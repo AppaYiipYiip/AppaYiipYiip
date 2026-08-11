@@ -1,116 +1,52 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E97CB&center=true&vCenter=true&width=435&lines=Marouane+Omansour;Data+Scientist;Problem+Solver" alt="Typing SVG" />
+  <img src="banner.svg" alt="Marouane Omansour, Data Analyst, Business Intelligence" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/marouane-omansour">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:marwanomansour04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <p><em>Turning large, messy datasets into dashboards and decisions people actually act on.</em></p>
 </div>
 
-<br />
+## About
 
-## 👨‍💻 About Me
+Data analyst specializing in business intelligence: data modeling, advanced SQL, and Power BI dashboards built to hold up under real use, not just to look good in a demo. My background is research-heavy data science at the postgraduate level, and it shows in how I approach a dataset: check assumptions, quantify the finding, then build something a non-technical stakeholder can actually act on.
 
-Data scientist with a passion for transforming complex datasets into actionable insights. MSc Data Science student at Royal Holloway University with a First-Class degree in Software Engineering. I'm dedicated to using data-driven approaches to solve challenging problems through rigorous analysis and innovative solutions.
+## Education
 
-I thrive in the intersection of distributed computing, data analysis, and machine learning, focusing on building scalable solutions that address real-world challenges.
+**MSc Data Science and Analytics (Distinction), Royal Holloway, University of London**
+Awarded Best MSc Student, Department of Computer Science. Thesis on conformal prediction for hierarchical multi-class classification, with coverage guarantees validated across 225,000+ image classifications.
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Languages & Tools</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-      <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" alt="Hadoop" />
-      <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
-    </td>
-    <td valign="top" width="50%">
-      <h3>Focus Areas</h3>
-      <ul>
-        <li>🔍 Network Analysis</li>
-        <li>📊 Data Visualization</li>
-        <li>🔄 Distributed Computing</li>
-        <li>🧮 Statistical Modeling</li>
-        <li>🗄️ Database Optimization</li>
-        <li>🤖 Machine Learning</li>
-        <li>🔌 API Integration</li>
-        <li>💻 Big Data Processing</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**BSc Software Engineering (First-Class Honours), Cardiff Metropolitan University**
 
-## 📘 Featured Projects
+## Currently
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3><a href="https://github.com/AppaYiipYiip/Enron-Email-Network-Analysis">Enron Email Network Analysis</a></h3>
-      <p>Architected Apache Spark pipelines to analyze 500K+ emails, extracting organizational communication patterns through advanced network analysis techniques.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Apache%20Spark-orange" alt="Apache Spark"/>
-        <img src="https://img.shields.io/badge/Network%20Analysis-blue" alt="Network Analysis"/>
-        <img src="https://img.shields.io/badge/Python-yellow" alt="Python"/>
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3><a href="https://github.com/AppaYiipYiip/Twitter-SQL-Analysis">Twitter Database Optimization</a></h3>
-      <p>Implemented 3NF database normalization on 100K+ tweets, crafting analytical SQL queries to extract engagement patterns and community structures.</p>
-      <p>
-        <img src="https://img.shields.io/badge/SQL-blue" alt="SQL"/>
-        <img src="https://img.shields.io/badge/Database%20Design-green" alt="Database Design"/>
-        <img src="https://img.shields.io/badge/Data%20Analysis-red" alt="Data Analysis"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>Finger Recognition System</h3>
-      <p>Engineered a KNN classification system for real-time finger count recognition with OpenCV for feature extraction and preprocessing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Computer%20Vision-purple" alt="Computer Vision"/>
-        <img src="https://img.shields.io/badge/OpenCV-red" alt="OpenCV"/>
-        <img src="https://img.shields.io/badge/Classification-blue" alt="Classification"/>
-      </p>
-    </td>
-    <td align="center">
-      <h3>Music Recommendation Engine</h3>
-      <p>Built a recommendation system using Spotify API and KMeans clustering, with an interactive Streamlit dashboard for visualization.</p>
-      <p>
-        <img src="https://img.shields.io/badge/API%20Integration-blue" alt="API Integration"/>
-        <img src="https://img.shields.io/badge/Clustering-orange" alt="Clustering"/>
-        <img src="https://img.shields.io/badge/Streamlit-red" alt="Streamlit"/>
-      </p>
-    </td>
-  </tr>
-</table>
+Preparing for the PL-300 (Microsoft Power BI Data Analyst) certification and deepening my work with Microsoft Fabric, alongside a self-directed capstone applying pandas and Power BI to a new dataset end to end.
 
-## 🌱 Currently Learning
+## Skills
+
+| | |
+|---|---|
+| **Business Intelligence** | Power BI (Desktop, Service), DAX, Power Query (M), star schema modeling, dashboard design |
+| **Data & SQL** | SQL, relational modeling, normalization (3NF), CTEs, window functions |
+| **Programming** | Python (pandas, NumPy) |
+| **Tools** | Advanced Excel, Git |
+
+## Projects
+
+**[E-Shop Power BI Dashboard](https://github.com/AppaYiipYiip/Eshop-PowerBi)**
+A 4-page Power BI dashboard (executive summary, sales, web analytics, KPIs) for a fictional e-commerce business. Star schema with 2 fact tables and 4 dimensions, DAX measures for revenue and engagement, and Power Query cleaning with interactive period and region segments.
+
+**[Twitter Database Normalization and SQL Analysis](https://github.com/AppaYiipYiip/Twitter-SQL-Analysis)**
+Rebuilt a denormalized dataset of about 100,000 tweets into a proper 3NF schema, then wrote analytical queries (CTEs, window functions, subqueries) to study user behavior. Found strong language homophily: 86% of replies stayed in the same language as the original post, against 48% expected by chance.
+
+**[Enron Email Network Analysis](https://github.com/AppaYiipYiip/Enron-Email-Network-Analysis)**
+Processed 500,000+ emails with Apache Spark to reconstruct an organization's internal communication network. Found that 20% of employees accounted for over 90% of all exchanges, with results delivered as visualizations built for non-technical stakeholders.
+
+## Certifications
+
+Google Project Management Professional Certificate (2025). AWS Cloud Practitioner, in progress (2026).
+
+## Get in touch
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=natural-language-processing&logoColor=white" alt="NLP" />
-</div>
-
-## 📫 Connect With Me
-
-I'm always interested in collaborating on data science projects and discussing new ideas. Feel free to reach out!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/marouane-omansour">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:marwanomansour04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
-  </a>
+  <a href="mailto:marwanomansour04@gmail.com">marwanomansour04@gmail.com</a> &nbsp;&#183;&nbsp; <a href="https://www.linkedin.com/in/marouane-omansour">LinkedIn</a>
 </div>
